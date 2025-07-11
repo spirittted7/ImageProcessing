@@ -19,4 +19,3 @@ It offers a user-friendly interface with a variety of options to transform and e
 *   **Command-line Interface:**  Easy-to-use command-line interface powered by `argparse`.
 *   **Flexible:** Supports a variety of image formats (dependent on OpenCV support).
 *   **Extensible:** Designed to be easily extended with new filters and stylization techniques.
-*   
